@@ -1,0 +1,15 @@
+{
+  "v": 3,
+  "createdOnFiles": {"v": 1, "at": "2026-10-11T17:55:00Z"},
+  "title": "Doc — Portfolio",
+  "launch": {"view": "focused", "file": "Main.dc.html"},
+  "pages": [],
+  "boards": {
+    "Main.dc.html": {"x": 0, "y": 0, "w": 1440, "h": 13129, "title": "Doc portfolio — one page", "expand": "fill", "is_interactive": true}
+  },
+  "order": ["Main.dc.html"],
+  "notes": {},
+  "designSystems": [
+    {"title": "Doc", "namespace": "doc", "artifact": "https://claude.ai/code/artifact/ed403cec-141d-4679-8e19-ecc1093ff795", "version": "1791723412-8eb1", "copiedAt": "2026-10-11T17:55:00Z"}
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "v": 3,
+  "assetGroups": {
+    "Icons": {
+      "files": {
+        "arrow-right.svg": {
+          "blob": "b31593e0040903b5f255f8a22c3d1604",
+          "name": "arrow-right.svg",
+          "size": 240,
+          "type": "image/svg+xml"
+        },
+        "arrow-up-right.svg": {
+          "blob": "51a1e8418b4120b97bd777a3d0982bdf",
+          "name": "arrow-up-right.svg",
+          "size": 237,
+          "type": "image/svg+xml"
+        },
+        "ball.svg": {
+          "blob": "1d5ecf7fbb06d2447c1995a2d65a1549",
+          "name": "ball.svg",
+          "size": 369,
+          "type": "image/svg+xml"
+        },
+        "branch.svg": {
+          "blob": "08b667b2489092282c2bde860fa55939",
+          "name": "branch.svg",
+          "size": 359,
+          "type": "image/svg+xml"
+        },
+        "chart.svg": {
+          "blob": "8b30fdc286fedeba6395ebcd99d05225",
+          "name": "chart.svg",
+          "size": 246,
+          "type": "image/svg+xml"
+        },
+        "check.svg": {
+          "blob": "2843f00c325e3d5ebc057f41ba1555df",
+          "name": "check.svg",
+          "size": 215,
+          "type": "image/svg+xml"
+        },
+        "chevron-down.svg": {
+          "blob": "6b4627e3e9133a443dbe4388073bc444",
+          "name": "chevron-down.svg",
+          "size": 213,
+          "type": "image/svg+xml"
+        },
+        "close.svg": {
+          "blob": "23794b517881f386dba746e046853e21",
+          "name": "close.svg",
+          "size": 239,
+          "type": "image/svg+xml"
+        },
+        "code.svg": {
+          "blob": "d881119f31b2fbc14c8729a3047e7b1b",
+          "name": "code.svg",
+          "size": 274,
+          "type": "image/svg+xml"
+        },
+        "copy.svg": {
+          "blob": "e983e7c9e1cfc8ad07892ac3bfeb9f21",
+          "name": "copy.svg",
+          "size": 263,
+          "type": "image/svg+xml"
+        },
+        "cpu.svg": {
+          "blob": "84ef1f3e29d507631c308fb5018e68f3",
+          "name": "cpu.svg",
+          "size": 353,
+          "type": "image/svg+xml"
+        },
+        "database.svg": {
+          "blob": "1c9c0c47720d7727a6e0a5a50b290b29",
+          "name": "database.svg",
+          "size": 333,
+          "type": "image/svg+xml"
+        },
+        "download.svg": {
+          "blob": "466cb8bcf69a775949792dfe1e5215f1",
+          "name": "download.svg",
+          "size": 266,
+          "type": "image/svg+xml"
+        },
+        "external.svg": {
+          "blob": "321dcb1ad85f41721de6a3982f390843",
+          "name": "external.svg",
+          "size": 270,
+          "type": "image/svg+xml"
+        },
+        "eye.svg": {
+          "blob": "8a0e5223423e7ab99fef0c8bfce916a7",
+          "name": "eye.svg",
+          "size": 284,
+          "type": "image/svg+xml"
+        },
+        "file.svg": {
+          "blob": "2f6ca9f3d62b7b0f6b5cae9ff00ca0d2",
+          "name": "file.svg",
+          "size": 276,
+          "type": "image/svg+xml"
+        },
+        "image.svg": {
+          "blob": "b484f62a13ae12d54a647f3b4b00e20b",
+          "name": "image.svg",
+          "size": 308,
+          "type": "image/svg+xml"
+        },
+        "layers.svg": {
+          "blob": "f3f1015c2695c33b3cd26e236172b4a1",
+          "name": "layers.svg",
+          "size": 250,
+          "type": "image/svg+xml"
+        },
+        "link.svg": {
+          "blob": "baa51104aaea8787f19807cdec3bf9b8",
+          "name": "link.svg",
+          "size": 305,
+          "type": "image/svg+xml"
+        },
+        "mail.svg": {
+          "blob": "49f337dd6494bad1aad446fb786c79b7",
+          "name": "mail.svg",
+          "size": 261,
+          "type": "image/svg+xml"
+        },
+        "menu.svg": {
+          "blob": "da132d7ee2199803e9917d1738aebb33",
+          "name": "menu.svg",
+          "size": 260,
+          "type": "image/svg+xml"
+        },
+        "pin.svg": {
+          "blob": "a91ed56b87ffc8df9b9eb4b529ad8dc5",
+          "name": "pin.svg",
+          "size": 287,
+          "type": "image/svg+xml"
+        },
+        "play.svg": {
+          "blob": "92cb7eca7f741043d09daf6c13b9796e",
+          "name": "play.svg",
+          "size": 216,
+          "type": "image/svg+xml"
+        },
+        "spark.svg": {
+          "blob": "8540971418d1bf524dc7f34f776ee7a7",
+          "name": "spark.svg",
+          "size": 269,
+          "type": "image/svg+xml"
+        },
+        "user.svg": {
+          "blob": "279f37bc30d820182ff40fbf41b1e4d6",
+          "name": "user.svg",
+          "size": 264,
+          "type": "image/svg+xml"
+        }
+      },
+      "name": "Icons",
+      "order": [
+        "arrow-right.svg",
+        "arrow-up-right.svg",
+        "ball.svg",
+        "branch.svg",
+        "chart.svg",
+        "check.svg",
+        "chevron-down.svg",
+        "close.svg",
+        "code.svg",
+        "copy.svg",
+        "cpu.svg",
+        "database.svg",
+        "download.svg",
+        "external.svg",
+        "eye.svg",
+        "file.svg",
+        "image.svg",
+        "layers.svg",
+        "link.svg",
+        "mail.svg",
+        "menu.svg",
+        "pin.svg",
+        "play.svg",
+        "spark.svg",
+        "user.svg"
+      ],
+      "tile": "s"
+    },
+    "Motifs": {
+      "files": {
+        "arrow-curve.svg": {
+          "blob": "635ef598fa9083a96d1f86f92349a08c",
+          "name": "arrow-curve.svg",
+          "size": 268,
+          "type": "image/svg+xml"
+        },
+        "arrow-down.svg": {
+          "blob": "5eebcebea60e2d50311bd98f4dfeec8e",
+          "name": "arrow-down.svg",
+          "size": 267,
+          "type": "image/svg+xml"
+        },
+        "arrow-loop.svg": {
+          "blob": "e3110a811ae675ab7d0ab5652f4c0500",
+          "name": "arrow-loop.svg",
+          "size": 312,
+          "type": "image/svg+xml"
+        },
+        "arrow-straight.svg": {
+          "blob": "ffd060b5ab0d1be760eeca283f47f8a7",
+          "name": "arrow-straight.svg",
+          "size": 269,
+          "type": "image/svg+xml"
+        },
+        "burst-red.svg": {
+          "blob": "2b6f00cf7a0707059a06f27967cf682b",
+          "name": "burst-red.svg",
+          "size": 454,
+          "type": "image/svg+xml"
+        },
+        "burst-yellow.svg": {
+          "blob": "e309c2f8aea8a5a1275f71ed99c5abcb",
+          "name": "burst-yellow.svg",
+          "size": 454,
+          "type": "image/svg+xml"
+        },
+        "halftone-tile.svg": {
+          "blob": "a1a8c0a1ffa1741ca20b4e5f13870036",
+          "name": "halftone-tile.svg",
+          "size": 143,
+          "type": "image/svg+xml"
+        },
+        "speed-lines.svg": {
+          "blob": "4ddadd22c527f5fca1d144135cf0cfd1",
+          "name": "speed-lines.svg",
+          "size": 1045,
+          "type": "image/svg+xml"
+        },
+        "stroke-bracket.svg": {
+          "blob": "55b308fad819ce3ef881cc4d398fa59e",
+          "name": "stroke-bracket.svg",
+          "size": 325,
+          "type": "image/svg+xml"
+        },
+        "stroke-cross.svg": {
+          "blob": "420a077a461737428a164479577882ca",
+          "name": "stroke-cross.svg",
+          "size": 315,
+          "type": "image/svg+xml"
+        },
+        "stroke-scribble.svg": {
+          "blob": "534188cbe085488da17e53a10a245a5a",
+          "name": "stroke-scribble.svg",
+          "size": 301,
+          "type": "image/svg+xml"
+        },
+        "stroke-swipe.svg": {
+          "blob": "2b69aa5d9945c45a171c64450f25c4da",
+          "name": "stroke-swipe.svg",
+          "size": 259,
+          "type": "image/svg+xml"
+        },
+        "stroke-underline.svg": {
+          "blob": "b4a1fefbbc469b27dcbfd71345c9b7c6",
+          "name": "stroke-underline.svg",
+          "size": 322,
+          "type": "image/svg+xml"
+        }
+      },
+      "name": "Motifs",
+      "order": [
+        "arrow-curve.svg",
+        "arrow-down.svg",
+        "arrow-loop.svg",
+        "arrow-straight.svg",
+        "burst-red.svg",
+        "burst-yellow.svg",
+        "halftone-tile.svg",
+        "speed-lines.svg",
+        "stroke-bracket.svg",
+        "stroke-cross.svg",
+        "stroke-scribble.svg",
+        "stroke-swipe.svg",
+        "stroke-underline.svg"
+      ],
+      "tile": "m"
+    },
+    "Samples": {
+      "files": {
+        "sample-dashboard.png": {
+          "blob": "c93069858f493e7baca106f1dc456349",
+          "name": "sample-dashboard.png",
+          "size": 83638,
+          "type": "image/png"
+        },
+        "sample-diagram.png": {
+          "blob": "51182473f73368e49428b03735b34653",
+          "name": "sample-diagram.png",
+          "size": 56995,
+          "type": "image/png"
+        },
+        "sample-football.png": {
+          "blob": "a06fde7163b713117e5d45a97ff72ffe",
+          "name": "sample-football.png",
+          "size": 133005,
+          "type": "image/png"
+        },
+        "sample-product.png": {
+          "blob": "f5bfb521b5c1aaeffa0e24d3ee46fabc",
+          "name": "sample-product.png",
+          "size": 36059,
+          "type": "image/png"
+        }
+      },
+      "name": "Samples",
+      "order": [
+        "sample-dashboard.png",
+        "sample-diagram.png",
+        "sample-football.png",
+        "sample-product.png"
+      ],
+      "tile": "l"
+    }
+  },
+  "blobs": {},
+  "createdOnFiles": {
+    "at": "2026-10-11T12:55:47Z",
+    "v": 1
+  },
+  "docs": {
+    "sections": []
+  },
+  "groups": [
+    "Icons",
+    "Motifs",
+    "Samples"
+  ],
+  "lastChange": {
+    "at": "2026-10-11T12:55:47Z",
+    "by": "Moe",
+    "note": "Doc design system: tokens, brand book, 41 components, icons, motifs and sample assets",
+    "via": "Claude"
+  },
+  "layout": "files",
+  "libraries": [
+    {
+      "file": "components/lib/react.production.min.js",
+      "global": "React",
+      "name": "react",
+      "version": "18.3.1"
+    },
+    {
+      "file": "components/lib/react-dom.production.min.js",
+      "global": "ReactDOM",
+      "name": "react-dom",
+      "version": "18.3.1"
+    }
+  ],
+  "namespace": "Doc",
+  "sections": {},
+  "title": "Doc"
+}

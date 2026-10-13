@@ -1,0 +1,29 @@
+/* Fit to laptop screens.
+   The design is drawn at fixed pixel sizes for a ~1440×1000 window, so on shorter
+   laptop windows (often 720–864px tall) every section overflows the screen.
+   On desktop widths, scale the page down in steps by window height; it keeps the
+   approved proportions, just smaller. Phones and tablets are unchanged, and the
+   screenshot viewer (.zoom) is left unscaled so screenshots open at full size. */
+@media (min-width: 1024px) and (max-height: 1000px) {
+  .site-nav,
+  .site > main,
+  .site > footer {
+    zoom: 0.9;
+  }
+}
+
+@media (min-width: 1024px) and (max-height: 880px) {
+  .site-nav,
+  .site > main,
+  .site > footer {
+    zoom: 0.82;
+  }
+}
+
+@media (min-width: 1024px) and (max-height: 780px) {
+  .site-nav,
+  .site > main,
+  .site > footer {
+    zoom: 0.75;
+  }
+}
