@@ -909,7 +909,10 @@ html{scroll-padding-top:88px}
   .hero{padding-top:28px}
   .hero__dots,.streaks{display:none}
   .hero__copy{gap:20px}
-  .hero__title{transform:rotate(-1.5deg)}
+  .hero__title{transform:rotate(-1.5deg);max-width:100%}
+  .hero-title .doc-hl--ink{white-space:normal;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+  .hero__slab{top:0;bottom:auto;height:34%;clip-path:polygon(0 0,100% 0,100% 100%,0 72%)}
+  .hero__side{order:-1;margin:0 0 40px}
   .roles{font-size:16px}
   .hero__lead{padding:12px 14px}
   .stage__in{aspect-ratio:4/5}
