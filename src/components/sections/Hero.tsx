@@ -181,7 +181,7 @@ export function Hero() {
                   <path d="M4 12 A8 8 0 1 0 7 5.8" />
                   <path d="M3.5 3.5 V 8 H 8" />
                 </svg>
-                Replay snap
+                Snap
               </button>
             </div>
           </div>

@@ -359,16 +359,7 @@ html{scroll-padding-top:88px}
 .og-eyebrow{margin:0 0 12px;font-family:var(--font-display);font-weight:700;font-size:17px;letter-spacing:.14em;text-transform:uppercase;color:var(--comic-blue)}
 .og-title{margin:0 0 22px;font-family:var(--font-display);font-weight:800;font-size:clamp(46px,calc(24px + 3vw),80px);line-height:.88;text-transform:uppercase;text-wrap:balance}
 .og-copy p{margin:0 0 14px;font-size:17px;line-height:1.65;color:var(--ink-muted)}
-.og-grow{display:flex;align-items:center;flex-wrap:wrap;gap:10px 14px;margin:14px 0 26px}
-.og-grow p{display:flex;align-items:center;gap:10px;margin:0;font-family:var(--font-display);font-weight:800;font-size:18px;letter-spacing:.08em;text-transform:uppercase}
-.og-grow b{display:grid;place-items:center;min-width:64px;height:64px;padding:0 10px;font-size:52px;font-style:italic;line-height:1;border:3px solid var(--ink-black)}
-.og-grow__a b{background:var(--paper-bright);box-shadow:4px 4px 0 0 var(--ink-black)}
-.og-grow__b b{background:var(--comic-red);color:var(--warm-paper);box-shadow:4px 4px 0 0 var(--ink-black)}
-.og-grow__arrow{width:64px;height:24px;flex:none;fill:none;stroke:var(--comic-blue);stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
-@property --og-n{syntax:'<integer>';inherits:false;initial-value:9}
-.og-count{counter-reset:ogn var(--og-n)}
-.og-count::after{content:counter(ogn)}
-.og-me{display:grid;gap:18px;justify-items:start;margin-top:auto;padding-top:6px}
+.og-me{display:grid;gap:18px;justify-items:start;margin-top:auto;padding-top:24px}
 /* Container 02 */
 .eng-wrap{margin-top:120px}
 .eng{padding:56px 52px 64px;background-color:var(--comic-blue);background-image:linear-gradient(rgba(250,246,237,.09) 1px,transparent 1px),linear-gradient(90deg,rgba(250,246,237,.09) 1px,transparent 1px);background-size:28px 28px;color:var(--warm-paper)}
@@ -643,11 +634,6 @@ html{scroll-padding-top:88px}
   .fx-origin[data-in="true"] .og-story > :nth-child(4){animation-delay:.58s}
   .fx-origin[data-in="true"] .og-story > :nth-child(5){animation-delay:.72s}
   .fx-origin[data-in="true"] .og-story > :nth-child(6){animation-delay:.84s}
-  .fx-origin .og-grow__b{opacity:0}
-  .fx-origin[data-in="true"] .og-grow__b{animation:fxPop .4s var(--ease-snap) 1.3s both}
-  .fx-origin[data-in="true"] .og-grow__arrow .draw{animation-delay:1.05s}
-  .fx-origin .og-count{--og-n:4}
-  .fx-origin[data-in="true"] .og-count{animation:ogCount .7s linear 1.45s both}
   /* Principles enter one after another; the AI frame scans once */
   .fx-prin .prin__p{opacity:0;--fx-x:0px;--fx-y:44px;--fx-ox:0px;--fx-oy:-5px}
   .fx-prin[data-in="true"] .prin__p{animation:fxIn .6s cubic-bezier(.2,.8,.2,1) both}
@@ -823,7 +809,6 @@ html{scroll-padding-top:88px}
 @keyframes zoomBurst{0%{opacity:0;scale:.2;rotate:-30deg}70%{opacity:.92;scale:1.04}100%{opacity:.92;scale:1;rotate:0deg}}
 @keyframes zoomFade{from{opacity:0}to{opacity:1}}
 @keyframes ogStamp{0%{opacity:0;scale:1.8}70%{opacity:1;scale:.94}100%{opacity:1;scale:1}}
-@keyframes ogCount{from{--og-n:4}to{--og-n:9}}
 @keyframes prLink{from{scale:0 1}to{scale:1 1}}
 @keyframes prScan{0%{opacity:0;translate:0 0}12%{opacity:.9}88%{opacity:.9}100%{opacity:0;translate:0 104px}}
 @keyframes fxTalk{0%{opacity:0;scale:.25;rotate:-10deg}55%{opacity:1;scale:1.07;rotate:2deg}78%{scale:.98;rotate:-.6deg}100%{opacity:1;scale:1;rotate:0deg}}
@@ -976,10 +961,6 @@ html{scroll-padding-top:88px}
   .pj-emblem--wide .pj-logo{width:46px;height:18px}
   .og-story{padding:26px 20px 30px}
   .og-copy p{font-size:16px}
-  .og-grow b{min-width:52px;height:52px;font-size:40px}
-  .og-grow p{font-size:16px}
-  .og-grow{flex-direction:column;align-items:flex-start;gap:6px}
-  .og-grow__arrow{rotate:90deg;width:44px;margin:4px 0 4px 6px}
   .eng-wrap{margin-top:96px}
   .eng{padding:30px 18px 40px}
   .prin__p{display:flex}

@@ -18,7 +18,7 @@ export function HQ() {
               chapter={2}
               chapterTitle="HQ"
               title="Base of operations"
-              intro="The software engineering and AI company I co-founded, where I lead mobile development."
+              intro="TupCode is a software engineering and AI company based in Damascus. It's where my ideas get built and shipped."
             />
           </Reveal>
         </div>
@@ -132,29 +132,14 @@ export function HQ() {
                 </h3>
                 <div className="og-copy">
                   <p>
-                    TupCode started in 2024 with four students at Damascus University who wanted to build software that real businesses depend on. The first
-                    product we launched is still running today.
+                    TupCode was founded at Damascus University in 2024 to build software that real businesses depend on.
                   </p>
                   <p>
-                    We've since grown into a team of nine and shipped products for clients in Syria, the Gulf and Canada, from coupon platforms in Saudi Arabia
-                    to computer-vision quality control on a factory line.
+                    From Damascus, TupCode ships web platforms, mobile apps, AI and connected hardware for clients in Syria, the Gulf and Canada: coupon
+                    platforms for Saudi retailers, hotel systems, ad screens on the road and computer-vision quality control on a factory line.
                   </p>
-                </div>
-                <div className="og-grow">
-                  <p className="og-grow__a">
-                    <b>4</b>
-                    <span>Founders</span>
-                  </p>
-                  <svg className="og-grow__arrow" viewBox="0 0 64 24" aria-hidden="true">
-                    <path className="draw" pathLength="1" d="M2 12 H 54" />
-                    <path d="M46 3 L 60 12 L 46 21" />
-                  </svg>
-                  <p className="og-grow__b">
-                    <b>
-                      <span className="og-count" aria-hidden="true" />
-                      <span className="sr-only">9</span>
-                    </b>
-                    <span>Team members</span>
+                  <p>
+                    Every project runs end to end in-house, from product decisions and design to engineering, launch and the updates after it.
                   </p>
                 </div>
                 <div className="og-me">
@@ -178,8 +163,8 @@ export function HQ() {
                 Ideas are the beginning. <span>Systems are the result.</span>
               </h3>
               <p className="eng-lead">
-                We build software and connected systems around real business needs, from the first product decisions to the engineering that keeps everything
-                working.
+                TupCode builds software and connected systems around real business needs, from the first product decisions to the engineering that keeps
+                everything working.
               </p>
             </Reveal>
             <Reveal className="fx-prin">

@@ -25,9 +25,9 @@ import shotMatchlensTracking from '../assets/images/screenshots/matchlens-tracki
 // ── Contact details ─────────────────────────────────────────────────────
 export const EMAIL = 'mohamed13majzoub@gmail.com';
 export const MAILTO = `mailto:${EMAIL}`;
-const PHONE_DISPLAY = '+971 52 386 4849';
-const PHONE_TEL = 'tel:+971523864849';
-const WHATSAPP_URL = 'https://wa.me/971523864849';
+const PHONE_DISPLAY = '+963 994 022 131';
+const PHONE_TEL = 'tel:+963994022131';
+const WHATSAPP_URL = 'https://wa.me/963994022131';
 export const GITHUB_URL = 'https://github.com/majzoub13';
 export const LINKEDIN_URL = 'https://www.linkedin.com/in/mohamed-al-majzoub-716904380';
 export const TUPCODE_URL = 'https://tupcode.com';
